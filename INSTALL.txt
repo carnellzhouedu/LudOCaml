@@ -1,0 +1,9 @@
+You need to have ocaml properly downloaded and the ANSITerminal package by running "opam install ANSITerminal".
+
+Download the source code. You will need to run "dune build" before running the code.
+Go into the directory of the code, "ludo/", and then run "make play". 
+
+The game will now begin.
+
+For those who don't know how to play ludo: you need to roll a 6 before you can 
+move any of your pieces.
