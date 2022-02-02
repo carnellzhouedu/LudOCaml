@@ -1,0 +1,6 @@
+(** @canonical Game.Authors *)
+module Authors = Game__Authors
+
+
+(** @canonical Game.Player_model *)
+module Player_model = Game__Player_model
